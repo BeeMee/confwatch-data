@@ -1,0 +1,17 @@
+{
+	"title": "DEFCON 27",
+	"type": 0,
+	"description": "DEFCON 2019, 27th Def-Con Hacking Conference is among one of the most main event on Computer, Information Technology, Cyber Security, Software, Hacking and Hack topics.",
+	"website": "",
+	"country": "US",
+	"city": "Las Vegas",
+	"address": "Paris, Ballys & Planet Hollywood hotels",
+	"starts": "2018-08-08T09:00:00+01:00",
+	"ends": "2018-08-11T22:00:00+01:00",
+    "tags": "defcon,defcon27,dc27",
+	"attributes": [
+		"code-of-conduct",
+		"lodging-discount",
+		"ctf"
+	]
+}

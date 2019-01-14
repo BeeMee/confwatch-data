@@ -1,0 +1,15 @@
+{
+	"title": "GrrCON 2018",
+	"type": 0,
+	"description": "GrrCON 2018, GrrCON Hacking Conference is among one of the major Michigan events on Computer, Information Technology, Cyber Security, Software, Hacking and Hack topics.",
+	"website": "http://grrcon.com/",
+	"country": "US",
+	"city": "Grand Rapids",
+	"address": "DeVos Place",
+	"starts": "2018-09-06T08:30:00-05:00",
+	"ends": "2018-09-07T19:00:00-05:00",
+    "tags": "grrcon,grrcon2018",
+	"attributes": [
+		"lodging-discount"
+	]
+}
