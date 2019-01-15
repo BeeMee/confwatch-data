@@ -1,0 +1,13 @@
+{
+	"title": "BlackHat ASIA 2019",
+	"type": 0,
+	"description": "Black Hat is returning to Marina Bay Sands in Singapore, March 26-29, 2019. The information security community will come together for hands-on Trainings taught by industry experts, cutting-edge research presentations at Briefings, open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
+	"website": "https://www.blackhat.com/asia-19/",
+	"country": "SG",
+	"city": "Singapore",
+	"address": "Marina Bay Sands",
+	"starts": "2019-03-26T09:00:00+01:00",
+	"ends": "2019-03-29T22:00:00+01:00",
+    "tags": "blackhat,bhasia,blackhatasia",
+	"attributes": []
+}
