@@ -9,5 +9,7 @@
 	"starts": "2019-02-15T09:00:00+01:00",
 	"ends": "2019-02-16T21:00:00+01:00",
 	"tags": "offensivecon",
-	"attributes": []
+	"attributes": [
+		"code-of-conduct"
+	]
 }
